@@ -1,11 +1,11 @@
 ### TestCaseId: TC001 ###
-** Title: Login with correct username and password ** 
+**Title: Login with correct username and password** 
 **Steps:** 
- 1.Open the browser and navigate to the web page
- 2.Navigate to the login page
- 3.Enter valid username: "standart_user"
- 4.Enter valid password: "secret_sauce"
- 5.Click login button
+ -1.Open the browser and navigate to the web page
+ -2.Navigate to the login page
+ -3.Enter valid username: "standart_user"
+ -4.Enter valid password: "secret_sauce"
+ -5.Click login button
 
 * Expected result: Successful login, the user is directed to the profile page *
 * Actual result: Successful login, the browser directed to the profile and main page *
