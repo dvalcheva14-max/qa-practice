@@ -1,14 +1,29 @@
 Test case for adding products to the cart
-###TC-004:Adding products to the cart###
 
-###Steps:###
+### TC-004:Adding products to the cart ###
 
-1.Choose a product from the product page
-2.Open the product and check for stock
-3.Add the product to the cart
-4.Open the cart and check if the product is added 
+**Preconditions:**
 
-###Expected result: The product is successfuly added to the cart###
+User is on the product page
+Product is in stock
 
-###Actual result: The product is added in the cart###
+**Steps:**
+
+1.Navigate to the product page
+
+2.Select a product
+
+3.Verify the product is in stock
+
+4.Click "Add to cart" button
+
+5.Open the cart page
+
+6.Verify the product is listed in the cart
+
+**Expected result: The selected product appears in the cart with correct name, price and quantity**
+
+**Actual result: The product is added successfully in the cart**
+
+
 
